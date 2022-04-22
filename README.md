@@ -12,3 +12,5 @@ Insotravels is a is a bespoke travel agency site. where customers are able to bo
 
 * Site was built on the wordpress platform with booking plugin bookly as consultation booking solution
 * UI design constructed in Figma
+view site at: 
+insotravels.com
