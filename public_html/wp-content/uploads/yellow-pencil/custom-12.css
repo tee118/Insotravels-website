@@ -1,0 +1,101 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Home" Page
+    02. "About us" Page
+    03. "Services" Page
+    04. "Contact" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-7 .gform-body .field_description_below label{
+	color:#ffffff;
+}
+
+body.page-id-7 #gform_submit_button_1{
+	color:#000000;
+	background-color:#d3b890;
+}
+
+body.page-id-7 #gform_submit_button_1:hover{
+	background-color:#834517;
+	color:#ffffff;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "About us" Page                              */
+/*-----------------------------------------------*/
+body.page-id-23 .gform-body .field_description_below label{
+	color:#ffffff;
+}
+
+body.page-id-23 #gform_submit_button_1{
+	color:#000000;
+	background-color:#d3b890;
+}
+
+body.page-id-23 #gform_submit_button_1:hover{
+	background-color:#834517;
+	color:#ffffff;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Services" Page                              */
+/*-----------------------------------------------*/
+body.page-id-22 .gform-body .field_description_below label{
+	color:#ffffff;
+}
+
+body.page-id-22 #gform_submit_button_1{
+	color:#000000;
+	background-color:#d3b890;
+}
+
+body.page-id-22 #gform_submit_button_1:hover{
+	background-color:#834517;
+	color:#ffffff;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Contact" Page                               */
+/*-----------------------------------------------*/
+body.page-id-27 .gform-body .field_description_below label{
+	color:#ffffff;
+}
+
+body.page-id-27 #gform_submit_button_1{
+	color:#000000;
+	background-color:#d3b890;
+}
+
+body.page-id-27 #gform_submit_button_1:hover{
+	background-color:#834517;
+	color:#ffffff;
+}
+
+body.page-id-27 #wpforms-submit-2043{
+	color:#000000;
+	background-color:#d3b890;
+}
+
+body.page-id-27 #wpforms-submit-2043:hover{
+	color:#ffffff;
+	background-color:#834517;
+}
