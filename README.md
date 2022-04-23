@@ -4,7 +4,7 @@ Inso travels
 
 ## Description
 
-Insotravels is a is a bespoke travel agency site. where customers are able to book aconsultation with a travel agent for a more bespoke and hand holding travel booking process that is suitable for their experience.
+Insotravels is a bespoke travel agency site. where customers are able to book aconsultation with a travel agent for a more bespoke and hand holding travel booking process that is suitable for their experience.
 
 
 
